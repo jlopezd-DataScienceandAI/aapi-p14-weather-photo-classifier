@@ -1,0 +1,24 @@
+# Datos, gráficas y estadística
+numpy==2.1.3
+pandas==3.0.0
+matplotlib==3.10.8
+seaborn==0.13.2
+scipy==1.16.3
+scikit-learn==1.8.0
+
+# Procesado de imagen
+scikit-image==0.26.0
+opencv-python-headless==4.14.0.94
+pillow==12.1.0
+
+# Modelos preentrenados (CLIP, DINOv2 y ResNet50)
+torch==2.12.0
+torchvision==0.27.0
+transformers==5.22.2
+
+# Índice del bloque C
+faiss-cpu==1.15.1
+
+# Utilidades
+tqdm==4.67.1
+requests==2.32.5
