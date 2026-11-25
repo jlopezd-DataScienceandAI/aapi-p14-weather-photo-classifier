@@ -3,7 +3,7 @@
 **Algoritmos y Arquitecturas para Procesado de Imágenes** · Grado en Ciencia de Datos e Inteligencia Artificial · Curso 2026–2027
 **Proyecto 14 · Tema 3: Imágenes como datos visuales**
 
-**Autores:** NOMBRE_1 y NOMBRE_2
+**Autores:** Jorge López Díaz y Daniel Barahona Moreno · **Grupo B**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jlopezd-DataScienceandAI/aapi-p14-weather-photo-classifier/blob/main/notebook/weather_classifier.ipynb)
 
